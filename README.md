@@ -1,6 +1,6 @@
 # Analisando Dados com SQL
 
-Neste projeto, realizei uma análise exploratória sobre os dados de óbito por covid com dados extraídos do site [Our World in Data](https://ourworldindata.org/covid-deaths). Para isso, a o arquivo excel foi carregado em um banco de dados SQLite usando a o pacote sqlite3 do python, e a análise foi realizada utilizando queries SQL. 
+Neste projeto, realizei uma análise exploratória sobre os dados de óbito por covid com dados extraídos no formato excel do site [Our World in Data](https://ourworldindata.org/covid-deaths). Para isso, o arquivo excel foi carregado em um banco de dados SQLite usando a o pacote sqlite3 do python, e a análise foi realizada utilizando queries SQL. 
 
 ## Perguntas norteadoras da análise
 ### Quais os países com o maior número de mortes?
